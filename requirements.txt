@@ -1,0 +1,2 @@
+# Needed only to download/extract the PDF corpus, not to run the web app.
+pypdf==6.10.0

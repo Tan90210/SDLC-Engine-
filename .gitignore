@@ -1,0 +1,12 @@
+.env
+data/
+node_modules/
+coverage/
+*.log
+test-results/
+.pnpm-store/
+corpus/pdfs/
+corpus/pages.json
+corpus/index.json
+data/models/
+tmp/

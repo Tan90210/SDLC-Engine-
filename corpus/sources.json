@@ -1,0 +1,42 @@
+[
+  {
+    "id": "scrum-guide",
+    "title": "The Scrum Guide",
+    "publisher": "Ken Schwaber and Jeff Sutherland",
+    "version": "November 2020",
+    "url": "https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf",
+    "file": "scrum-guide.pdf",
+    "scope": "Empirical development, feedback, increments and stakeholder collaboration",
+    "rights": "CC BY-SA 4.0, as stated in the guide; attribution retained."
+  },
+  {
+    "id": "sei-spiral",
+    "title": "Spiral Development Experience Principles and Refinements",
+    "publisher": "Carnegie Mellon Software Engineering Institute",
+    "version": "CMU/SEI-2000-SR-008 (2000)",
+    "url": "https://www.sei.cmu.edu/documents/5439/2000_003_001_13655.pdf",
+    "file": "sei-spiral.pdf",
+    "scope": "Risk-driven software development, iteration and lifecycle selection",
+    "rights": "SEI report; original rights notices retained in the source PDF."
+  },
+  {
+    "id": "nist-ssdf",
+    "title": "Secure Software Development Framework",
+    "publisher": "National Institute of Standards and Technology",
+    "version": "NIST SP 800-218 v1.1 (2022)",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf",
+    "file": "nist-ssdf.pdf",
+    "scope": "Security practices integrated into software development lifecycles",
+    "rights": "US government publication; original notices retained."
+  },
+  {
+    "id": "nasa-handbook",
+    "title": "NASA Systems Engineering Handbook",
+    "publisher": "National Aeronautics and Space Administration",
+    "version": "NASA/SP-2016-6105 Rev 2 (2016)",
+    "url": "https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf",
+    "file": "nasa-handbook.pdf",
+    "scope": "Requirements elicitation, lifecycle processes, verification and validation; NASA context must be considered",
+    "rights": "NASA publication; original notices retained."
+  }
+]
